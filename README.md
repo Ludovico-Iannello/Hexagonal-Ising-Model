@@ -1,2 +1,2 @@
-# hexagonal-Ising-Model
+# Hexagonal-Ising-Model
 analysis of the hexagonal ising model (modulo 1 metodi numerici)
