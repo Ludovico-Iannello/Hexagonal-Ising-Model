@@ -44,7 +44,7 @@ cc simulazione al variare di beta
         else
           i_decorrel=20
         end if
-        beta=0.5
+        
         write(*,*) beta
         CALL geometry()                     !!inizializza condizioni al bordo
         CALL initialize_lattice(iflag)      !!inizializza configurazione iniziale
