@@ -1,6 +1,6 @@
 c programma per la simulazione del modello di ising bidimensionale
       program ising
-      parameter(nlatt=20,nvol=2*nlatt**2,nbeta=1,measures=1000000)
+      parameter(nlatt=20,nvol=2*nlatt**2,nbeta=20,measures=20000)
       integer iflag,i_decorrel,term
       real magn,ene,chi,cv,b,dm,de,dchi,dcv,db
       real magn_arr,ene_arr,var_ene, var_magn
